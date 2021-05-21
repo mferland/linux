@@ -42,7 +42,7 @@
 	status = "okay";
 };
 
-&flexcan1 {
+&can1 {
         status = "okay";
 };
 
